@@ -1,0 +1,85 @@
+{
+  "articles": [
+    {
+      "id": "kb-001",
+      "title": "Lakmé 9to5 Primer Reformulation Guide",
+      "description": "Complete guide for addressing dryness complaints and improving primer formulation with hydrating agents",
+      "tags": ["9to5", "primer", "formulation", "hydration", "consumer-feedback"],
+      "category": "Product Development",
+      "confidence": 0.95,
+      "lastUpdated": "2024-01-10T14:30:00Z",
+      "views": 1247,
+      "helpful": 142
+    },
+    {
+      "id": "kb-002",
+      "title": "Niacinamide Integration in Skincare Formulations",
+      "description": "Step-by-step guide for incorporating niacinamide into Lakmé skincare products based on consumer demand trends",
+      "tags": ["niacinamide", "skincare", "formulation", "acne", "pores"],
+      "category": "Ingredient Research",
+      "confidence": 0.91,
+      "lastUpdated": "2024-01-08T09:15:00Z",
+      "views": 892,
+      "helpful": 98
+    },
+    {
+      "id": "kb-003",
+      "title": "Sustainable Packaging Solutions for Beauty Products",
+      "description": "How to implement refillable and eco-friendly packaging for Lakmé Absolute range",
+      "tags": ["sustainable", "packaging", "refillable", "absolute", "eco-friendly"],
+      "category": "Packaging Innovation",
+      "confidence": 0.88,
+      "lastUpdated": "2024-01-12T16:45:00Z",
+      "views": 2156,
+      "helpful": 203
+    },
+    {
+      "id": "kb-004",
+      "title": "Consumer Sentiment Analysis Framework",
+      "description": "Comprehensive guide to analyze beauty product reviews and social media sentiment for R&D insights",
+      "tags": ["sentiment-analysis", "consumer-feedback", "social-media", "reviews"],
+      "category": "Market Research",
+      "confidence": 0.93,
+      "lastUpdated": "2024-01-14T11:20:00Z",
+      "views": 1534,
+      "helpful": 187
+    },
+    {
+      "id": "kb-005",
+      "title": "FSSAI Compliance for Cosmetic Products",
+      "description": "Best practices for ensuring cosmetic product compliance with Indian regulatory standards",
+      "tags": ["fssai", "compliance", "regulatory", "indian-market", "cosmetics"],
+      "category": "Regulatory Affairs",
+      "confidence": 0.96,
+      "lastUpdated": "2024-01-15T08:30:00Z",
+      "views": 3421,
+      "helpful": 312
+    },
+    {
+      "id": "kb-006",
+      "title": "Competitor Analysis: Maybelline vs L'Oreal Strategies",
+      "description": "Detailed analysis of competitor product launches, pricing strategies, and market positioning in Indian beauty market",
+      "tags": ["competitor-analysis", "maybelline", "loreal", "pricing", "market-strategy"],
+      "category": "Competitive Intelligence",
+      "confidence": 0.89,
+      "lastUpdated": "2024-01-13T10:15:00Z",
+      "views": 987,
+      "helpful": 156
+    }
+  ],
+  "categories": [
+    { "id": "product-development", "name": "Product Development", "count": 23 },
+    { "id": "ingredient-research", "name": "Ingredient Research", "count": 18 },
+    { "id": "packaging-innovation", "name": "Packaging Innovation", "count": 15 },
+    { "id": "market-research", "name": "Market Research", "count": 31 },
+    { "id": "regulatory-affairs", "name": "Regulatory Affairs", "count": 19 },
+    { "id": "competitive-intelligence", "name": "Competitive Intelligence", "count": 12 }
+  ],
+  "suggestedTopics": [
+    "Lightweight Foundation Formulation Techniques",
+    "Vitamin C Serum Stability Enhancement",
+    "Consumer Preference Analysis for Lipstick Textures",
+    "Regional Beauty Trends in Tier-2 Indian Cities",
+    "Influencer Marketing ROI in Beauty Industry"
+  ]
+}

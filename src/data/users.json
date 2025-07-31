@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": "user-001",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@unilever.com",
+      "role": "admin",
+      "department": "CMI & R&D Leadership",
+      "escalationThreshold": 0.8,
+      "status": "active",
+      "lastLogin": "2024-01-15T09:30:00Z",
+      "permissions": ["view_all", "edit_users", "manage_kb", "view_analytics"]
+    },
+    {
+      "id": "user-002",
+      "name": "Rajesh Kumar",
+      "email": "rajesh.kumar@unilever.com",
+      "role": "rd_scientist",
+      "department": "R&D - Skincare",
+      "escalationThreshold": 0.75,
+      "status": "active",
+      "lastLogin": "2024-01-15T10:15:00Z",
+      "permissions": ["view_insights", "provide_feedback", "access_formulations"]
+    },
+    {
+      "id": "user-003",
+      "name": "Ananya Desai",
+      "email": "ananya.desai@unilever.com",
+      "role": "product_manager",
+      "department": "Product Innovation",
+      "escalationThreshold": 0.85,
+      "status": "active",
+      "lastLogin": "2024-01-15T08:45:00Z",
+      "permissions": ["view_trends", "manage_projects", "generate_reports"]
+    },
+    {
+      "id": "user-004",
+      "name": "Vikram Singh",
+      "email": "vikram.singh@unilever.com",
+      "role": "cmi_analyst",
+      "department": "Consumer Market Insights",
+      "escalationThreshold": 0.9,
+      "status": "active",
+      "lastLogin": "2024-01-14T16:20:00Z",
+      "permissions": ["view_analytics", "conduct_research", "create_insights"]
+    },
+    {
+      "id": "user-005",
+      "name": "Meera Patel",
+      "email": "meera.patel@unilever.com",
+      "role": "category_head",
+      "department": "Makeup Category",
+      "escalationThreshold": 0.8,
+      "status": "active",
+      "lastLogin": "2024-01-15T07:30:00Z",
+      "permissions": ["view_category_insights", "approve_launches", "strategic_planning"]
+    },
+    {
+      "id": "user-006",
+      "name": "Arjun Menon",
+      "email": "arjun.menon@unilever.com",
+      "role": "regulatory_affairs",
+      "department": "Regulatory Affairs",
+      "escalationThreshold": 0.95,
+      "status": "active",
+      "lastLogin": "2024-01-15T11:45:00Z",
+      "permissions": ["view_compliance", "manage_regulations", "approve_claims"]
+    }
+  ],
+  "roles": [
+    {
+      "id": "admin",
+      "name": "CMI & R&D Administrator",
+      "description": "Full system access and user management for beauty intelligence platform",
+      "color": "red"
+    },
+    {
+      "id": "rd_scientist",
+      "name": "R&D Scientist",
+      "description": "Access to formulation insights and ingredient intelligence",
+      "color": "blue"
+    },
+    {
+      "id": "product_manager",
+      "name": "Product Innovation Manager",
+      "description": "Manage beauty product development and trend analysis",
+      "color": "green"
+    },
+    {
+      "id": "cmi_analyst",
+      "name": "CMI Analyst",
+      "description": "Conduct consumer research and market intelligence",
+      "color": "purple"
+    },
+    {
+      "id": "category_head",
+      "name": "Category Head",
+      "description": "Strategic oversight for specific beauty product categories",
+      "color": "orange"
+    },
+    {
+      "id": "regulatory_affairs",
+      "name": "Regulatory Affairs Specialist",
+      "description": "Ensure compliance with beauty industry regulations",
+      "color": "gray"
+    }
+  ]
+}

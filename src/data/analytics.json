@@ -1,0 +1,44 @@
+{
+  "csatScores": [
+    { "month": "Sep", "score": 4.2 },
+    { "month": "Oct", "score": 4.3 },
+    { "month": "Nov", "score": 4.5 },
+    { "month": "Dec", "score": 4.6 },
+    { "month": "Jan", "score": 4.7 }
+  ],
+  "aiAccuracy": [
+    { "month": "Sep", "intent": 82, "entity": 78, "routing": 85 },
+    { "month": "Oct", "intent": 85, "entity": 82, "routing": 88 },
+    { "month": "Nov", "intent": 87, "entity": 85, "routing": 90 },
+    { "month": "Dec", "intent": 89, "entity": 88, "routing": 92 },
+    { "month": "Jan", "intent": 91, "entity": 90, "routing": 94 }
+  ],
+  "volumeHandling": [
+    { "month": "Sep", "ai": 1250, "human": 890 },
+    { "month": "Oct", "ai": 1420, "human": 780 },
+    { "month": "Nov", "ai": 1680, "human": 650 },
+    { "month": "Dec", "ai": 1950, "human": 580 },
+    { "month": "Jan", "ai": 2240, "human": 490 }
+  ],
+  "topTopics": [
+    { "topic": "Gaming GPU Recommendations", "count": 342, "percentage": 28 },
+    { "topic": "Driver Installation Issues", "count": 298, "percentage": 24 },
+    { "topic": "CUDA Development Help", "count": 187, "percentage": 15 },
+    { "topic": "RTX Performance Optimization", "count": 156, "percentage": 13 },
+    { "topic": "Student Discount Inquiries", "count": 98, "percentage": 8 }
+  ],
+  "feedbackTrends": [
+    { "month": "Sep", "positive": 78, "negative": 22 },
+    { "month": "Oct", "positive": 81, "negative": 19 },
+    { "month": "Nov", "positive": 85, "negative": 15 },
+    { "month": "Dec", "positive": 88, "negative": 12 },
+    { "month": "Jan", "positive": 92, "negative": 8 }
+  ],
+  "kpis": {
+    "totalConversations": 2847,
+    "aiResolutionRate": 82,
+    "averageResponseTime": "1.2 min",
+    "escalationRate": 12,
+    "customerSatisfaction": 4.7
+  }
+}

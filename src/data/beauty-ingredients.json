@@ -1,0 +1,119 @@
+{
+  "trendingIngredients": [
+    {
+      "name": "Niacinamide",
+      "trend": "rising",
+      "popularity": 94,
+      "benefits": ["Pore reduction", "Oil control", "Acne treatment"],
+      "mentions": 4520,
+      "sentiment": 0.89,
+      "competitorUsage": ["Minimalist", "Plum", "The Ordinary"],
+      "regulatoryStatus": "approved",
+      "costPerKg": "₹2,400",
+      "suppliers": ["DSM", "Lonza", "Ashland"]
+    },
+    {
+      "name": "Hyaluronic Acid",
+      "trend": "stable",
+      "popularity": 87,
+      "benefits": ["Hydration", "Plumping", "Anti-aging"],
+      "mentions": 3890,
+      "sentiment": 0.91,
+      "competitorUsage": ["L'Oreal", "Neutrogena", "Olay"],
+      "regulatoryStatus": "approved",
+      "costPerKg": "₹8,500",
+      "suppliers": ["Bloomage", "Contipro", "Givaudan"]
+    },
+    {
+      "name": "Vitamin C (L-Ascorbic Acid)",
+      "trend": "rising",
+      "popularity": 82,
+      "benefits": ["Brightening", "Antioxidant", "Collagen boost"],
+      "mentions": 3245,
+      "sentiment": 0.78,
+      "competitorUsage": ["Minimalist", "Dot & Key", "Mamaearth"],
+      "regulatoryStatus": "approved",
+      "costPerKg": "₹1,200",
+      "suppliers": ["DSM", "CSPC", "Northeast Pharma"]
+    },
+    {
+      "name": "Retinol",
+      "trend": "moderate",
+      "popularity": 75,
+      "benefits": ["Anti-aging", "Texture improvement", "Acne treatment"],
+      "mentions": 2167,
+      "sentiment": 0.72,
+      "competitorUsage": ["Olay", "Neutrogena", "RoC"],
+      "regulatoryStatus": "regulated",
+      "costPerKg": "₹12,000",
+      "suppliers": ["DSM", "Zhejiang Medicine", "BASF"]
+    },
+    {
+      "name": "Peptides",
+      "trend": "emerging",
+      "popularity": 68,
+      "benefits": ["Firming", "Anti-aging", "Repair"],
+      "mentions": 1834,
+      "sentiment": 0.85,
+      "competitorUsage": ["Olay", "Pond's", "Garnier"],
+      "regulatoryStatus": "approved",
+      "costPerKg": "₹25,000",
+      "suppliers": ["Sederma", "Lipotec", "Lucas Meyer"]
+    }
+  ],
+  "emergingIngredients": [
+    {
+      "name": "Bakuchiol",
+      "trend": "emerging",
+      "popularity": 45,
+      "benefits": ["Natural retinol alternative", "Anti-aging", "Sensitive skin friendly"],
+      "mentions": 892,
+      "sentiment": 0.88,
+      "regulatoryStatus": "approved",
+      "costPerKg": "₹18,000"
+    },
+    {
+      "name": "Centella Asiatica",
+      "trend": "rising",
+      "popularity": 52,
+      "benefits": ["Soothing", "Anti-inflammatory", "Healing"],
+      "mentions": 1245,
+      "sentiment": 0.91,
+      "regulatoryStatus": "approved",
+      "costPerKg": "₹3,200"
+    },
+    {
+      "name": "Ceramides",
+      "trend": "stable",
+      "popularity": 61,
+      "benefits": ["Barrier repair", "Hydration", "Skin strengthening"],
+      "mentions": 1567,
+      "sentiment": 0.87,
+      "regulatoryStatus": "approved",
+      "costPerKg": "₹15,500"
+    }
+  ],
+  "ingredientConcerns": [
+    {
+      "name": "Parabens",
+      "concern": "Preservative safety",
+      "mentions": 2341,
+      "sentiment": -0.65,
+      "alternativesAvailable": ["Phenoxyethanol", "Benzyl Alcohol", "Natural preservatives"]
+    },
+    {
+      "name": "Sulfates",
+      "concern": "Drying, irritation",
+      "mentions": 1876,
+      "sentiment": -0.58,
+      "alternativesAvailable": ["Coco Glucoside", "Sodium Cocoyl Isethionate"]
+    },
+    {
+      "name": "Chemical Sunscreens",
+      "concern": "Hormone disruption",
+      "mentions": 987,
+      "sentiment": -0.42,
+      "alternativesAvailable": ["Zinc Oxide", "Titanium Dioxide", "Mineral UV filters"]
+    }
+  ]
+}

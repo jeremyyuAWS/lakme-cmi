@@ -1,0 +1,70 @@
+{
+  "productTypes": [
+    {
+      "id": "geforce",
+      "name": "GeForce",
+      "categories": [
+        { "id": "rtx40", "name": "RTX 40 Series" },
+        { "id": "rtx30", "name": "RTX 30 Series" },
+        { "id": "gtx16", "name": "GTX 16 Series" },
+        { "id": "drivers", "name": "Drivers & Software" }
+      ]
+    },
+    {
+      "id": "quadro",
+      "name": "Quadro/RTX Professional",
+      "categories": [
+        { "id": "rtx6000", "name": "RTX 6000 Series" },
+        { "id": "rtx5000", "name": "RTX 5000 Series" },
+        { "id": "rtx4000", "name": "RTX 4000 Series" },
+        { "id": "drivers", "name": "Professional Drivers" }
+      ]
+    },
+    {
+      "id": "datacenter",
+      "name": "Data Center",
+      "categories": [
+        { "id": "a100", "name": "A100 Tensor Core" },
+        { "id": "h100", "name": "H100 Tensor Core" },
+        { "id": "v100", "name": "V100 Tensor Core" },
+        { "id": "networking", "name": "Networking Solutions" }
+      ]
+    },
+    {
+      "id": "jetson",
+      "name": "Jetson",
+      "categories": [
+        { "id": "orin", "name": "Jetson Orin" },
+        { "id": "xavier", "name": "Jetson Xavier" },
+        { "id": "nano", "name": "Jetson Nano" },
+        { "id": "sdk", "name": "JetPack SDK" }
+      ]
+    }
+  ],
+  "severityLevels": [
+    {
+      "id": "s1",
+      "name": "S1 - Critical",
+      "description": "Complete system failure affecting production",
+      "color": "red"
+    },
+    {
+      "id": "s2",
+      "name": "S2 - High",
+      "description": "Significant impact on operations",
+      "color": "orange"
+    },
+    {
+      "id": "s3",
+      "name": "S3 - Medium",
+      "description": "Moderate impact with workaround available",
+      "color": "yellow"
+    },
+    {
+      "id": "s4",
+      "name": "S4 - Low",
+      "description": "Minor issue or question",
+      "color": "green"
+    }
+  ]
+}

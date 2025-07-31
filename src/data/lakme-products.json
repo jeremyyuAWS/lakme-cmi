@@ -1,0 +1,148 @@
+{
+  "productRanges": [
+    {
+      "id": "9to5",
+      "name": "9 to 5",
+      "category": "Makeup",
+      "description": "Professional makeup for working women",
+      "products": [
+        {
+          "id": "9to5-primer",
+          "name": "9 to 5 Weightless Primer",
+          "type": "primer",
+          "price": "₹450",
+          "concerns": [
+            {
+              "issue": "Dryness after 4 hours",
+              "severity": "high",
+              "mentions": 156,
+              "sentiment": -0.34,
+              "demographics": "combination skin, age 22-28"
+            },
+            {
+              "issue": "Pills over moisturizer",
+              "severity": "medium",
+              "mentions": 89,
+              "sentiment": -0.28,
+              "demographics": "dry skin, age 25-35"
+            }
+          ],
+          "positives": [
+            {
+              "aspect": "Oil control",
+              "mentions": 234,
+              "sentiment": 0.76
+            },
+            {
+              "aspect": "Longevity",
+              "mentions": 198,
+              "sentiment": 0.72
+            }
+          ]
+        },
+        {
+          "id": "9to5-foundation",
+          "name": "9 to 5 Weightless Mousse Foundation",
+          "type": "foundation",
+          "price": "₹575",
+          "concerns": [
+            {
+              "issue": "Limited shade range",
+              "severity": "high",
+              "mentions": 267,
+              "sentiment": -0.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "absolute",
+      "name": "Absolute",
+      "category": "Premium Makeup & Skincare",
+      "description": "Luxury beauty range with advanced formulations",
+      "products": [
+        {
+          "id": "absolute-argan-serum",
+          "name": "Absolute Argan Oil Radiance Oil-in-Serum",
+          "type": "serum",
+          "price": "₹999",
+          "concerns": [
+            {
+              "issue": "Too heavy for oily skin",
+              "severity": "medium",
+              "mentions": 134,
+              "sentiment": -0.31
+            },
+            {
+              "issue": "Strong fragrance",
+              "severity": "low",
+              "mentions": 78,
+              "sentiment": -0.22
+            }
+          ],
+          "positives": [
+            {
+              "aspect": "Glow and radiance",
+              "mentions": 445,
+              "sentiment": 0.83
+            },
+            {
+              "aspect": "Packaging quality",
+              "mentions": 234,
+              "sentiment": 0.79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skincare",
+      "name": "Lakmé Skincare",
+      "category": "Skincare",
+      "description": "Complete skincare solutions",
+      "products": [
+        {
+          "id": "vitamin-c-serum",
+          "name": "Lakmé Vitamin C+ Face Serum",
+          "type": "serum",
+          "price": "₹649",
+          "concerns": [
+            {
+              "issue": "Oxidizes quickly",
+              "severity": "high",
+              "mentions": 189,
+              "sentiment": -0.52
+            },
+            {
+              "issue": "Sticky texture",
+              "severity": "medium",
+              "mentions": 112,
+              "sentiment": -0.38
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "competitorComparison": [
+    {
+      "competitor": "Maybelline",
+      "strengths": ["Texture", "International appeal", "Color range"],
+      "weaknesses": ["Price", "Availability in tier-2 cities"],
+      "sentiment": 0.76
+    },
+    {
+      "competitor": "L'Oreal",
+      "strengths": ["Innovation", "Premium positioning", "Marketing"],
+      "weaknesses": ["Price point", "Complex product names"],
+      "sentiment": 0.71
+    },
+    {
+      "competitor": "Minimalist",
+      "strengths": ["Ingredient transparency", "Affordable serums", "Clean formulations"],
+      "weaknesses": ["Limited makeup range", "Basic packaging"],
+      "sentiment": 0.82
+    }
+  ]
+}
